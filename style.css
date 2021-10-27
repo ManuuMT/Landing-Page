@@ -1,3 +1,9 @@
 .carousel-caption{
 	margin-bottom: 20%;
 }
+
+/*Clase para las imagenes del carrusel que se vean todas iguales*/
+.carrusel {
+    height: 100%;
+}
+
