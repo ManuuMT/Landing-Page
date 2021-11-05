@@ -3,6 +3,7 @@
 
 ## Acerca del proyecto
 
+FECHA DE ENTREGA: 5/11/2021
 
 En este repositorio encontrarás una Landing Page creada entre 3 estudiantes de 4Geeks Academy con el fin de: 
 
@@ -16,6 +17,9 @@ En este repositorio encontrarás una Landing Page creada entre 3 estudiantes de 
 
 ![](https://i.imgur.com/NI1txqD.jpg)
 
+- Javier Rodriguez
+- Carles M.G.
+- Emanuel Maldonado
 
 ## Tecnologías utilizadas en el proyecto
 
