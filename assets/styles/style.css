@@ -4,21 +4,17 @@
     margin-bottom: 15%;
 }
 
-
 .barra-gris{
     background-color: rgba(116, 110, 110, 0.3);
     width: 100%;
     height: 110px;
 }
 
-
+/* Estilos de formulario */
 
 .port{
     height: 80% !important;
 }
-
-
-
 
 .button{
     float:right;
